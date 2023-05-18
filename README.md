@@ -162,6 +162,6 @@ Vincent Obaro - [Github](https://github.com/vincelogs) / [Twitter](https://twitt
 Kelvin Onumajuru - [Github](https://github.com/kel2ck) / [Twitter](https://twitter.com/Kelvin_O2)
 
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb:  Joann Vuong
 ## License
 Public Domain. No copy write protection. 
